@@ -24,7 +24,7 @@ I worked on several projects using Golang, I work with a team consisting of back
 </p>
 
 
-### Socials
+### :iphone: Socials
 
 <p align="left"> <a href="https://www.github.com/raorafarhan" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/frhnalabrar" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
@@ -36,6 +36,6 @@ I worked on several projects using Golang, I work with a team consisting of back
 
 
 
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <a href="http://www.github.com/raorafarhan"><img src="https://github-readme-stats.vercel.app/api?username=raorafarhan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="raorafarhan's GitHub stats" /></a>
