@@ -1,4 +1,4 @@
-Hi 👋 My name is Raora Farhan
+Hi <img src="https://raw.githubusercontent.com/raorafarhan/raorafarhan/main/wave.gif" width="30px" height="30px" /> My name is Raora Farhan
 =============================
 
 I'am Backend Engineer
